@@ -47,9 +47,9 @@ To run OSINT, you'll need:
 1.  **Clone the Repository:**
     First, clone this GitHub repository to your local machine:
     ```bash
-    git clone [https://github.com/GIZAWI32/OSINT-Tool.git](https://github.com/GIZAWI32/OSINT-Tool.git)
+    git clone [https://github.com/Gizawi9/OSINT-TooL.git](https://github.com/Gizawi9/OSINT-TooL.git)
     ```
-    *(Replace `GIZAWI32` and `OSINT-Tool` with your actual GitHub GIZAWI32 and repository name.)*
+    *(Replace `Gizawi9` and `OSINT-TooL` with your actual GitHub Gizawi9 and repository name.)*
 
 2.  **Navigate to the Directory:**
     Change your current directory to the cloned repository:
